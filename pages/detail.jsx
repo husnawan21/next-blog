@@ -1,19 +1,11 @@
-import CardPost from '@/components/CardPost'
 import Container from '@/components/_container'
 import Layout from '@/components/_layout'
-import { useState } from 'react'
-import mockPosts from './api/data/posts.json'
 import Head from 'next/head'
-import SectionHeader from '@/components/SectionHeader'
 import PostMetaTitle from '@/components/PostMetaTitle'
 import PostAuthor from '@/components/PostAuthor'
 import Image from 'next/image'
 
-// const inter = Inter({ subsets: ['latin'] })
-
 export default function Detail() {
-	const [posts, setPosts] = useState([])
-
 	return (
 		<>
 			<Head>
@@ -33,12 +25,12 @@ export default function Detail() {
 						/>
 						<PostAuthor
 							authorName='Leslie Alexander'
-							authorAvatar='/../public/img/author-1.png'
+							authorAvatar='/img/author-1.png'
 							authorJob='UI Designer'
 						/>
 						<div className='md:w-10/12 rounded-xl overflow-hidden my-8 md:my-10'>
 							<Image
-								src='/../public/img/detail-image.png'
+								src='/img/detail-image.png'
 								width={1080}
 								height={640}
 								alt='detail image'

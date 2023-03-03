@@ -11,7 +11,7 @@ export default function FeaturedPost() {
 						<div className='overflow-hidden rounded-xl mb-4 md:mb-0'>
 							<Link href='/detail'>
 								<Image
-									src='/../public/img/featured-thumbnail.png'
+									src='/img/featured-thumbnail.png'
 									width='1080'
 									height='600'
 									alt='Featured Post'
@@ -26,7 +26,7 @@ export default function FeaturedPost() {
 							date='July 2, 2021'
 							title='Understanding color theory: the color wheel and finding complementary colors'
 							excerpt='Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Voluptate exercitation incididunt aliquip deserunt reprehenderit elit laborum. '
-							authorAvatar='/../public/img/author-1.png'
+							authorAvatar='/img/author-1.png'
 							authorName='Leslie Alexander'
 							authorJob='UI Designer'
 						/>

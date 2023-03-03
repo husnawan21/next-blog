@@ -1,68 +1,68 @@
 [
 	{
 		"id": 1,
-		"thumbnail": "/../public/img/thumbnail-2.png",
+		"thumbnail": "/img/thumbnail-2.png",
 		"category": "Internet",
 		"date": "March 3, 2023",
 		"title": "How to design a product that can grow itself 10x in year",
 		"excerpt": "Suitable Quality is determined by product users, clients or customers, not by society in general. For example, a low priced product may be viewed as having high.",
 		"authorName": "Jenny Wilson",
 		"authorJob": "Product Designer",
-		"authorAvatar": "/../public/img/author-2.png"
+		"authorAvatar": "/img/author-2.png"
 	},
 	{
 		"id": 2,
-		"thumbnail": "/../public/img/thumbnail-3.png",
+		"thumbnail": "/img/thumbnail-3.png",
 		"category": "9 to 5",
 		"date": "March 3, 2023",
 		"title": "The More Important the Work, the More Important the Rest",
 		"excerpt": "Consider that for a moment: everything we see around us is assumed to have had a cause and is contingent upon something else.",
 		"authorName": "Jenny Wilson",
 		"authorJob": "Product Designer",
-		"authorAvatar": "/../public/img/author-3.png"
+		"authorAvatar": "/img/author-3.png"
 	},
 	{
 		"id": 3,
-		"thumbnail": "/../public/img/thumbnail-4.png",
+		"thumbnail": "/img/thumbnail-4.png",
 		"category": "Inspirations",
 		"date": "March 3, 2023",
 		"title": "Email Love - Email Inspiration, Templates and Discovery",
 		"excerpt": "Suitable Quality is determined by product users, clients or customers, not by society in general. For example, a low priced product may be viewed as having high.",
 		"authorName": "Jenny Wilson",
 		"authorJob": "Product Designer",
-		"authorAvatar": "/../public/img/author-4.png"
+		"authorAvatar": "/img/author-4.png"
 	},
 	{
 		"id": 4,
-		"thumbnail": "/../public/img/thumbnail-5.png",
+		"thumbnail": "/img/thumbnail-5.png",
 		"category": "9 to 5",
 		"date": "March 3, 2023",
 		"title": "The More Important the Work, the More Important the Rest",
 		"excerpt": "Consider that for a moment: everything we see around us is assumed to have had a cause and is contingent upon something else.",
 		"authorName": "Jenny Wilson",
 		"authorJob": "Product Designer",
-		"authorAvatar": "/../public/img/author-3.png"
+		"authorAvatar": "/img/author-3.png"
 	},
 	{
 		"id": 5,
-		"thumbnail": "/../public/img/thumbnail-6.png",
+		"thumbnail": "/img/thumbnail-6.png",
 		"category": "Inspirations",
 		"date": "March 3, 2023",
 		"title": "Email Love - Email Inspiration, Templates and Discovery",
 		"excerpt": "Auctor Porta. Augue vitae diam mauris faucibus blandit elit per, feugiat leo dui orci. Etiam vestibulum. Nostra netus per conubia dolor.",
 		"authorName": "Jenny Wilson",
 		"authorJob": "Product Designer",
-		"authorAvatar": "/../public/img/author-2.png"
+		"authorAvatar": "/img/author-2.png"
 	},
 	{
 		"id": 6,
-		"thumbnail": "/../public/img/thumbnail-2.png",
+		"thumbnail": "/img/thumbnail-2.png",
 		"category": "Internet",
 		"date": "March 3, 2023",
 		"title": "How to design a product that can grow itself 10x in year",
 		"excerpt": "Suitable Quality is determined by product users, clients or customers, not by society in general. For example, a low priced product may be viewed as having high.",
 		"authorName": "Jenny Wilson",
 		"authorJob": "Product Designer",
-		"authorAvatar": "/../public/img/author-1.png"
+		"authorAvatar": "/img/author-1.png"
 	}
 ]
