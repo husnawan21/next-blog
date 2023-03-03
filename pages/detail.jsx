@@ -42,6 +42,7 @@ export default function Detail() {
 								width={1080}
 								height={640}
 								alt='detail image'
+								priority
 							/>
 						</div>
 						<div className='md:w-8/12 mx-auto leading-loose text-slate-300'>
