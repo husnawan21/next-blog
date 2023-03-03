@@ -2,13 +2,11 @@
 const nextConfig = {
 	reactStrictMode: true,
 	images: {
-		formats: ['image/avif', 'image/webp'],
 		remotePatterns: [
 			{
 				protocol: 'https',
-				hostname: 'assets.vercel.com',
+				hostname: '*.vercel.app',
 				port: '',
-				pathname: '/image/upload/**',
 			},
 		],
 	},
