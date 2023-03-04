@@ -25,12 +25,8 @@ export default function Home() {
 					<FeaturedPost />
 					<div className='flex flex-wrap mt-12 -mx-6'>
 						{posts.map(post => (
-							<div
-								key={post.id}
-								className='px-6 md:w-6/12 lg:w-4/12 mt-12 md:mt-6'
-							>
+							<div key={post.id} className='px-6 md:w-6/12 lg:w-4/12 mt-6'>
 								<CardPost {...post} />
-								<hr className='border-slate-600 md:invisible' />
 							</div>
 						))}
 					</div>

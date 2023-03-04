@@ -36,7 +36,7 @@ export default function Posts() {
 						) : (
 							<>
 								{posts.map(post => (
-									<div key={post.id} className='px-6 md:w-6/12 lg:w-4/12'>
+									<div key={post.id} className='px-6 md:w-6/12 lg:w-4/12 mt-6'>
 										<CardPost {...post} />
 									</div>
 								))}

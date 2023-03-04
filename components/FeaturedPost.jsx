@@ -30,7 +30,7 @@ export default function FeaturedPost() {
 							authorName='Leslie Alexander'
 							authorJob='UI Designer'
 						/>
-						<hr className='border border-slate-700 mt-10 md:hidden' />
+						<hr className='border border-slate-700 mt-12 mb-8 md:hidden' />
 					</div>
 				</div>
 			</article>
