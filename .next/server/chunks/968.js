@@ -317,7 +317,7 @@ function Navbar() {
                             ]
                         }),
                         /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                            className: `fixed lg:static transition-all duration-300 w-full left-0 lg:flex lg:w-3/12 px-5 lg:px-0 ${search ? "top-10" : "-top-40"}`,
+                            className: `fixed lg:static transition-all duration-300 w-full left-0 lg:flex lg:w-3/12 px-5 lg:px-0 ${search ? "top-24" : "-top-40"}`,
                             children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
                                 children: [
                                     /*#__PURE__*/ jsx_runtime_.jsx("input", {
